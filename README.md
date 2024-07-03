@@ -44,8 +44,8 @@
 | STT    | MSSV          | Họ và Tên              | Github                                               | Email                   |
 | ------ |:-------------:| ----------------------:|-----------------------------------------------------:|-------------------------:
 | 1      | 22521293      | Nguyễn Vũ Khai Tâm     |[Nguyễn Vũ Khai Tâm](https://github.com/p-kTmm)       |22521293@gm.uit.edu.vn   |
-| 2      |               |                        |                                                      |        @gm.uit.edu.vn   |
-| 3      |               |                        |                                                      |        @gm.uit.edu.vn   |
+| 2      | 22521624      | Bùi Công Khánh Tường   |                                                      |22521624@gm.uit.edu.vn   |
+| 3      | 22520105      | Lê Trần Gia Bảo        |                                                      |22520105@gm.uit.edu.vn   |
 
 ## ĐỒ ÁN MÔN HỌC
 <a name="doan"></a>
